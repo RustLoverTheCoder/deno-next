@@ -1,5 +1,5 @@
 export function add(a: number, b: number): number {
-  return a + b;
+  return a + b + a + a;
 }
 
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
