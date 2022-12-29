@@ -1,4 +1,4 @@
-export type { ServeInit } from "https://deno.land/std@0.150.0/http/server.ts";
+export type { ServeInit } from "std/http/server.ts";
 
 export type StartOptions = FreshOptions & {
   experimentalDenoServe?: boolean;

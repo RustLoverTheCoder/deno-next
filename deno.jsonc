@@ -1,5 +1,6 @@
 {
   "tasks": {
+    "test": "deno test",
     "dev": "deno run --watch main.ts"
   },
   "compilerOptions": {
